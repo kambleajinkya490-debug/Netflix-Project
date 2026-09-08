@@ -1,5 +1,5 @@
 
-# 🎬 Netflix Clone DevSecOps Project
+# 🎬 Netflix Clone Project
 
 A production-grade Netflix Clone deployed on AWS using DevSecOps practices. This project demonstrates an end-to-end CI/CD pipeline with automated security scanning, containerization, Kubernetes deployment, GitOps, and monitoring.
 
